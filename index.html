@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Product preview card component</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/mobile.css" />
+    <link rel="stylesheet" href="css/desktop.css" media="(min-width: 1024px)" />
+  </head>
+  <body>
+    <main>
+      <article class="product-card">
+        <picture class="product-card__image">
+          <source
+            srcset="/images/image-product-desktop.jpg"
+            type="image/jpg"
+            media="(min-width: 1024px)"
+          />
+          <img
+            src="/images/image-product-mobile.jpg"
+            alt="Gabrielle Essence Eau De Parfum"
+          />
+        </picture>
+        <div class="product-card__content">
+          <span class="product-card__category">Perfume</span>
+          <h2 class="product-card__title">Gabrielle Essence Eau De Parfum</h2>
+          <p class="product-card__description">
+            A floral, solar and voluptuous interpretation composed by Oliver
+            Polge, Perfumer-Creator for the House of CHANEL.
+          </p>
+          <span class="product-card__price">
+            <span class="product-card__discount-price">$149.99</span>
+            <span class="product-card__original-price">$169.99</span>
+          </span>
+          <button class="product-card__button product-card__button--hover">
+            <span></span>Add to Cart
+          </button>
+        </div>
+      </article>
+    </main>
+
+    <div class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="https://github.com/Alex1999-03">Alex1999-03</a>.
+    </div>
+  </body>
+</html>
