@@ -1,10 +1,10 @@
-# Frontend Mentor - Blog preview card solution
+# Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.  
 
 ## Table of contents
 
-- [Frontend Mentor - Blog preview card solution](#frontend-mentor---blog-preview-card-solution)
+- [Frontend Mentor - Product preview card component solution](#frontend-mentor---product-preview-card-component-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
