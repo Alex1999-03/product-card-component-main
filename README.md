@@ -24,12 +24,15 @@ Users should be able to:
 
 ### Screenshot
 
-![Captura web_25-12-2023_21318_alex1999-03 github io](https://github.com/Alex1999-03/blog-preview-card-main/assets/64668518/719cfee1-2798-4002-a9fd-fe6b73833378)
+![](https://github.com/Alex1999-03/product-card-component-main/assets/64668518/53dabc2d-8baf-4b41-a9bc-fb67f213f7a7)
+![](https://github.com/Alex1999-03/product-card-component-main/assets/64668518/fb28d7af-9975-4581-beb3-a33846892616)
+
+
 
 ### Links
 
 - [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-with-html-and-css-ctjv320j4-)
-- [Live site](https://alex1999-03.github.io/blog-preview-card-main)
+- [Live site](https://alex1999-03.github.io/blog-preview-card-main](https://alex1999-03.github.io/product-card-component-main/)
 
 ## Built with
 
