@@ -24,10 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/Alex1999-03/product-card-component-main/assets/64668518/53dabc2d-8baf-4b41-a9bc-fb67f213f7a7)
-![](https://github.com/Alex1999-03/product-card-component-main/assets/64668518/fb28d7af-9975-4581-beb3-a33846892616)
-
-
+![](./screenshots/desktop.jpeg)
+![](./screenshots/mobile.jpeg)
 
 ### Links
 
